@@ -1,1 +1,1 @@
-# Welcome to our CSE 2102 Project
+# CSE 2102 Project ~ Team 02
